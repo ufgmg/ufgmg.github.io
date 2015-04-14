@@ -1,6 +1,18 @@
 title: Game Makers Guild
-description: >
-  Game Makers Guild student organization at the University of Florida. See the
-  projects we're currently working on, and learn when and where we meet.
-exclude:
-  - vendor
+
+menu:
+  About: /
+  Attend: /attend.html
+  Projects: /projects.html
+  Facebook: https://www.facebook.com/groups/ufgmg/
+  Github: https://github.com/ufgmg
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: >
+        Game Makers Guild student organization at the University of Florida.
+        See the projects we're currently working on, and learn when and where
+        we meet.
+      layout: default

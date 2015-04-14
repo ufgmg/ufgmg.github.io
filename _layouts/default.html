@@ -3,17 +3,29 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} - Game Makers Guild</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ page.description | strip_newlines }}">
   <link rel="stylesheet" href="/css/base.css">
   <link rel="icon" href="/img/favicon.ico">
 </head>
 <body>
   <header>
-    {% include header.html %}
+    <h1>
+      <img alt="Game Makers Guild" src="/img/gmg-clean-256x208.png">
+      – We Make Games
+    </h1>
+    <nav>
+      <ul>
+        {% for item in site.menu %}
+          {% unless forloop.first %}-->{% endunless %}<li><a href="{{ item[1] }}">{{ item[0] }}</a></li>{% unless forloop.last %}<!--{% endunless %}{% comment %}-->{% endcomment %}
+        {% endfor %}
+      </ul>
+    </nav>
   </header>
-    {{ content }}
+
+{{ content }}
+
   <footer>
-    {% include footer.html %}
+    <p>Copyright 2015 Game Makers Guild</p>
   </footer>
 </body>
 </html>
