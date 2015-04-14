@@ -3,6 +3,7 @@
 $text: #2e3436;
 $light_text: #777;
 $border: #ccc;
+$lightbg: #eee;
 
 html {
     color: $text;
@@ -63,4 +64,12 @@ a {
     &:hover, &:active {
         color: $text;
     }
+}
+
+blockquote {
+    background-color: $lightbg;
+    border-left: solid 0.25rem $border;
+    border-right: solid 0.25rem $border;
+    margin: 0 2rem;
+    padding: 0.1rem 0.5rem;
 }
