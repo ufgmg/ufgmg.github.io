@@ -1,6 +1,16 @@
 ---
 title: About
+updated: 07 June 2015
 ---
+
+<aside class="info">
+<h2>Take note!</h2>
+<p>As of May 2015, Game Makers Guild is merging into the
+<a href="https://www.facebook.com/groups/BADASSociety/">BADAS Society</a>.</p>
+<p>See
+<a href="https://www.facebook.com/groups/ufgmg/permalink/10153003601394858/">our Facebook post</a>
+for more information.</p>
+</aside>
 
 University of Florida club all about making video games. We welcome anyone
 interested—whether artist, programmer, designer, marketer, or if you just have

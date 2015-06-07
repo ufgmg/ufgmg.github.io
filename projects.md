@@ -1,8 +1,9 @@
 ---
 title: Projects
+updated: 07 June 2015
 ---
 
-# Current Projects
+# Past Projects
 
 ## Unity Group
 
@@ -33,10 +34,6 @@ enemies and do damage upon contact.
   <img src="/img/games/max-rpg4.png">
 </div>
 
----
-
-# Past Projects
-
 ## Think Green
 
 Think Green is a puzzle game created for Ludum Dare (a 48-hour game development
@@ -50,7 +47,7 @@ using Pygame and is open source. You can find more information at
 
 ## Space Oddity
 
-Description to be added.
+(Description to be added.)
 
 <div class="cycle-slideshow">
   <img src="/img/games/spaceoddity-interface.jpg">
