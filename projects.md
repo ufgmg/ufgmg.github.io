@@ -10,7 +10,13 @@ Our group is currently a meeting/discussion group for people trying to learn and
 make games using unity. We come from different backgrounds and help each other
 out. Please come if you are interested.
 
-<img src="http://ufgmg.org/nextgen-attach_to_post/preview/id--196" alt="" />
+<div class="cycle-slideshow">
+  <img src="/img/games/unity1.png">
+  <img src="/img/games/unity2.png">
+  <img src="/img/games/unity3.png">
+  <img src="/img/games/unity4.png">
+  <img src="/img/games/unity5.png">
+</div>
 
 ## Max's Amazing Group
 
@@ -20,8 +26,12 @@ computer. We've revamped the battle system so that you have to damage machine
 enemies by allocating computer programs in a grid that automatically seek out
 enemies and do damage upon contact.
 
-<img class="ngg_displayed_gallery mceItem"
-src="http://ufgmg.org/nextgen-attach_to_post/preview/id--215" alt="" />
+<div class="cycle-slideshow">
+  <img src="/img/games/max-rpg1.png">
+  <img src="/img/games/max-rpg2.png">
+  <img src="/img/games/max-rpg3.png">
+  <img src="/img/games/max-rpg4.png">
+</div>
 
 ---
 
@@ -36,12 +46,15 @@ tiny planet by moving around recyclable waste. The game is written in Python
 using Pygame and is open source. You can find more information at
 [the game's GitHub repository](https://github.com/kalgynirae/thinking-green).
 
-<img class="ngg_displayed_gallery mceItem"
-src="http://ufgmg.org/nextgen-attach_to_post/preview/id--240" />
+<img src="/img/games/thinkgreen.png">
 
 ## Space Oddity
 
 Description to be added.
 
-<img class="ngg_displayed_gallery mceItem"
-src="http://ufgmg.org/nextgen-attach_to_post/preview/id--241" />
+<div class="cycle-slideshow">
+  <img src="/img/games/spaceoddity-interface.jpg">
+  <img src="/img/games/spaceoddity-characters.jpg">
+  <img src="/img/games/spaceoddity-weapons.jpg">
+  <img src="/img/games/spaceoddity-foodtruck.jpg">
+</div>

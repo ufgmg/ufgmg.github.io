@@ -73,3 +73,10 @@ blockquote {
     margin: 0 2rem;
     padding: 0.1rem 0.5rem;
 }
+
+.cycle-slideshow {
+    img {
+        max-width:100%;
+    }
+    overflow: hidden;
+}
